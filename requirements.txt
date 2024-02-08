@@ -1,0 +1,10 @@
+pandas
+openpyxl
+tensorflow
+matplotlib
+seaborn
+numba == 0.50.1
+numpy == 1.18.5
+scikit_learn >= 0.23.1
+tqdm
+hmmlearn
