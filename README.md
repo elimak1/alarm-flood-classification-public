@@ -2,7 +2,7 @@
 
 <link to thesis>
 
-Implements papaers from alarm flood classification and clustering research. Clustering methods are modified to do classification, descriptions of the modifications in the thesis. References to the corresponding papers are given at the beginning of .py files in the `code/methods` folder
+Implements papers from alarm flood classification and clustering research. Clustering methods are modified to do classification, descriptions of the modifications in the thesis. References to the corresponding papers are given at the beginning of .py files in the `code/methods` folder.
 
 This project is tested with Python 3.7. The notebook `test_methods.ipynb` provides examples of how to run the methods implemented in this project.
 
@@ -21,9 +21,9 @@ The file contains one column where each row has a int label for the correspondin
 ## Running the Code
 
 To run the code, open the `test_methods.ipynb` notebook and follow the instructions provided in the notebook.
-`notebooks/` folder also contains addional notebooks for visaulising and analysing results
+`notebooks/` folder also contains additional notebooks for visualizing and analyzing results
 Note that some of the notebooks which process or visualize the raw alarm data can be quite specific and should only be used as reference.
 
-Running CASTLE requires cloning repo from https://github.com/ChangWeiTan/MultiRocket to adjacent folder and either installing required libraries or (adjusting files so they are used as they are not required for using the importet functions)
+Running CASTLE requires cloning repo from https://github.com/ChangWeiTan/MultiRocket to adjacent folder and either installing required libraries or (adjusting files so they are used as they are not required for using the imported functions)
 
 ![Depiction of online alarm flood classification in real world](images/DALL·E_alarm_flood_scene.png)
